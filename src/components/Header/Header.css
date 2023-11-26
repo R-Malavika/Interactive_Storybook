@@ -1,0 +1,14 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(141, 39, 174, 0.3), rgba(141, 39, 174, 0.5)), url("https://64.media.tumblr.com/9fa9d739ce5e0171d1005053fb59e71d/ec52fe3135cb6b6b-42/s2048x3072_c0,21875,100000,78125/c8d9e5bac5e80175f5c9f772c4d87165c4e9d475.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
